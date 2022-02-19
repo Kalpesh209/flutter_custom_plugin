@@ -1,9 +1,9 @@
-# Flutter Budget Tracking App
+# Flutter Custom Plugin Development
 
 ## Getting Started
 
 
-flutter budget tracking app project has "main.dart" as Entry Point.
+Flutter Custom Plugin Development project has "main.dart" as Entry Point.
 
 - [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
